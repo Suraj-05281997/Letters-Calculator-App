@@ -36,7 +36,7 @@ class LettersCalculator extends Component {
                 value={inputPhrase}
               />
             </div>
-            <p className="letters-count">No of letters:{inputPhrase.length}</p>
+            <p className="letters-count">No of letters: {inputPhrase.length}</p>
           </div>
           <img
             src="https://assets.ccbp.in/frontend/react-js/stop-watch-with-calculator-img.png"
